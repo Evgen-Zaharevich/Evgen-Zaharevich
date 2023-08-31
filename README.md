@@ -27,8 +27,11 @@ Here are some ideas to get you started:
 
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/evgen-zaharevich" target="blank"><img align="center" src="https://img.icons8.com/?size=2x&id=108812&format=png" alt="linkedin icon" height="40" width="40" /></a>
-![LinkedIn](https://img.icons8.com/?size=2x&id=108812&format=png)![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+<a href="mailto:Zaharevich.Evgen@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=2x&id=64154&format=png" alt="mail icon" title="Send a letter to Evgen" height="100" width="100" /></a>
+<a href="https://www.linkedin.com/in/evgen-zaharevich" target="blank"><img align="center" src="https://img.icons8.com/?size=2x&id=64154&format=png" alt="linkedin icon" height="100" width="100" /></a>
+
+
+![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 
 
 # 💻 Tech Stack:
