@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 ## 🌐 Socials:
-![LinkedIn](https://img.icons8.com/?size=512&id=kdFKO7FQ5nkP&format=png)![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+![LinkedIn](https://img.icons8.com/?size=2x&id=108812&format=png)![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 
 
 # 💻 Tech Stack:
