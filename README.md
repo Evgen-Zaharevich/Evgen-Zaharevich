@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 👯 I want to cooperate with more experienced colleagues.<br>
 🤝 I am looking for help with a permanent and stable job.<br>
 🌱 Now I am studying more deeply JavaScript technologies and frameworks and the English language.<br>
-🎸I have been playing guitar and writing music for over 20 years.<br>
-🎛️ He was a DJ for 8 years.
-💬 Ask me about how to be happy <br>
+🎸I have been playing guitar and writing music for over 20 years.🤘<br>
+💿 He was a DJ for 8 years.<br>
+💬 Ask me about how to be happy.😁<br>
 ⚡ Interesting fact "The first website in the world was created by Tim Berners-Lee on August 6, 1991. This site was dedicated to the World Wide Web and had the address http://info.cern.ch. Initially, it was focused on providing information for CERN (European Organization for Nuclear Research) internal users, but later became available to the entire Internet community."
 
 
