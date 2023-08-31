@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 ## 🌐 Socials:
-<a href="mailto:Zaharevich.Evgen@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=2x&id=cHNRcWMI2bLJ&format=png" alt="mail icon" title="Send a letter to Evgen" height="100" width="100" /></a>
+<a href="mailto:Zaharevich.Evgen@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=2x&id=ksVpaaAJGe1o&format=png" alt="mail icon" title="Send a letter to Evgen" height="100" width="100" /></a>
 <a href="https://www.linkedin.com/in/evgen-zaharevich" target="blank"><img align="center" src="https://img.icons8.com/?size=2x&id=64154&format=png" alt="linkedin icon" height="100" width="100" /></a>
 
 
