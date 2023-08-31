@@ -28,13 +28,9 @@ Here are some ideas to get you started:
 
 ## 🌐 Socials:
 <a href="mailto:Zaharevich.Evgen@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=2x&id=ksVpaaAJGe1o&format=png" alt="mail icon" height="100" width="100" /></a>
-
 <a href="https://www.linkedin.com/in/evgen-zaharevich" target="blank"><img align="center" src="https://img.icons8.com/?size=2x&id=64154&format=png" alt="linkedin icon" height="100" width="100" /></a>
-
 <a href="https://t.me/Evgen_Zaharevich" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=103814&format=png" alt="telegram icon" height="100" width="100" /></a>
-
 <a href="https://codepen.io/Evgen-Zaharevich" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=o9s1V0TD7VGy&format=png" alt="codePen icon" height="100" width="100" /></a>
-
 <a href="https://ru.pinterest.com/Evgen_Zaharevich/" target="blank"><img align="center" src="https://img.icons8.com/?size=2x&id=xw0uP-hnyCSs&format=png" alt="pinterest icon" height="100" width="100" /></a>
 
 
