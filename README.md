@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 💫 About Me:
+<!--### 💫 About Me:-->
 🔭 I am currently working on my Pet Project and Freelancing.<br>
 👯 I want to cooperate with more experienced colleagues.<br>
 🤝 I am looking for help with a permanent and stable job.<br>
